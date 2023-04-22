@@ -1,0 +1,4 @@
+C:/dev/Cmake_course/6_sourceandheader/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/Cmake_course/6_sourceandheader/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/Cmake_course/6_sourceandheader/build/src/my_lib/CMakeFiles/Library.dir
+C:/dev/Cmake_course/6_sourceandheader/build/app/CMakeFiles/Executable.dir

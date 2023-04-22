@@ -1,0 +1,10 @@
+^C:\DEV\CMAKE_COURSE\5_CONFIGURE_FILE\SRC\MY_LIB\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/Cmake_course/5_configure_file -BC:/dev/Cmake_course/5_configure_file/build --check-stamp-file C:/dev/Cmake_course/5_configure_file/build/src/my_lib/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/dev/Cmake_course/2_BasicProject/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\MyLibrary.dir\\lib.c.obj -c C:\\dev\\Cmake_course\\2_BasicProject\\lib.c",
+  "file": "C:/dev/Cmake_course/2_BasicProject/lib.c",
+  "output": "CMakeFiles/MyLibrary.dir/lib.c.obj"
+},
+{
+  "directory": "C:/dev/Cmake_course/2_BasicProject/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\Executable.dir\\main.c.obj -c C:\\dev\\Cmake_course\\2_BasicProject\\main.c",
+  "file": "C:/dev/Cmake_course/2_BasicProject/main.c",
+  "output": "CMakeFiles/Executable.dir/main.c.obj"
+}
+]

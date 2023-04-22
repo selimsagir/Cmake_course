@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/dev/Cmake_course/build",
+  "command": "C:\\MinGW\\bin\\gcc.exe   -g -o CMakeFiles\\Executable.dir\\main.c.obj -c C:\\dev\\Cmake_course\\1_helloworld\\main.c",
+  "file": "C:/dev/Cmake_course/1_helloworld/main.c",
+  "output": "CMakeFiles/Executable.dir/main.c.obj"
+}
+]

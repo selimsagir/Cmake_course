@@ -1,0 +1,4 @@
+C:/dev/Cmake_course/2_BasicProject/build/CMakeFiles/MyLibrary.dir
+C:/dev/Cmake_course/2_BasicProject/build/CMakeFiles/Executable.dir
+C:/dev/Cmake_course/2_BasicProject/build/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/2_BasicProject/build/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+C:/dev/Cmake_course/build/CMakeFiles/Executable.dir
+C:/dev/Cmake_course/build/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/build/CMakeFiles/rebuild_cache.dir

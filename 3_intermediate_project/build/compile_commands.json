@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/dev/Cmake_course/3_intermediate_project/build/src/my_lib",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Library.dir/includes_C.rsp -g -o CMakeFiles\\Library.dir\\my_lib.c.obj -c C:\\dev\\Cmake_course\\3_intermediate_project\\src\\my_lib\\my_lib.c",
+  "file": "C:/dev/Cmake_course/3_intermediate_project/src/my_lib/my_lib.c",
+  "output": "src/my_lib/CMakeFiles/Library.dir/my_lib.c.obj"
+},
+{
+  "directory": "C:/dev/Cmake_course/3_intermediate_project/build/app",
+  "command": "C:\\MinGW\\bin\\gcc.exe  @CMakeFiles/Executable.dir/includes_C.rsp -g -o CMakeFiles\\Executable.dir\\main.c.obj -c C:\\dev\\Cmake_course\\3_intermediate_project\\app\\main.c",
+  "file": "C:/dev/Cmake_course/3_intermediate_project/app/main.c",
+  "output": "app/CMakeFiles/Executable.dir/main.c.obj"
+}
+]

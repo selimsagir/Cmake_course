@@ -1,0 +1,10 @@
+C:/dev/Cmake_course/3_intermediate_project/build/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/CMakeFiles/rebuild_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/src/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/src/CMakeFiles/rebuild_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/src/my_lib/CMakeFiles/Library.dir
+C:/dev/Cmake_course/3_intermediate_project/build/src/my_lib/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/src/my_lib/CMakeFiles/rebuild_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/app/CMakeFiles/Executable.dir
+C:/dev/Cmake_course/3_intermediate_project/build/app/CMakeFiles/edit_cache.dir
+C:/dev/Cmake_course/3_intermediate_project/build/app/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,5 @@
+C:/dev/Cmake_course/7_externalgit/build/CMakeFiles/ALL_BUILD.dir
+C:/dev/Cmake_course/7_externalgit/build/CMakeFiles/ZERO_CHECK.dir
+C:/dev/Cmake_course/7_externalgit/build/external/json/CMakeFiles/ALL_BUILD.dir
+C:/dev/Cmake_course/7_externalgit/build/src/my_lib/CMakeFiles/Library.dir
+C:/dev/Cmake_course/7_externalgit/build/app/CMakeFiles/Executable.dir

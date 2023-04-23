@@ -1,0 +1,10 @@
+^C:\DEV\CMAKE_COURSE\7_EXTERNALGIT\BUILD\CMAKEFILES\1CCA90AFCAB4A9B0ECAD8EC24A3EB614\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/dev/Cmake_course/7_externalgit -BC:/dev/Cmake_course/7_externalgit/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/dev/Cmake_course/7_externalgit/build/CProject.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

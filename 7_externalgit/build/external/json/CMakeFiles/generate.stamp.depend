@@ -1,0 +1,9 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.26/Modules/CMakePackageConfigHelpers.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/ExternalProject.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/GNUInstallDirs.cmake
+C:/Program Files/CMake/share/cmake-3.26/Modules/WriteBasicConfigVersionFile.cmake
+C:/dev/Cmake_course/7_externalgit/external/json/CMakeLists.txt
+C:/dev/Cmake_course/7_externalgit/external/json/cmake/config.cmake.in
+C:/dev/Cmake_course/7_externalgit/external/json/cmake/nlohmann_jsonConfigVersion.cmake.in
+C:/dev/Cmake_course/7_externalgit/external/json/cmake/pkg-config.pc.in
